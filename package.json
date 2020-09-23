@@ -1,0 +1,19 @@
+{
+  "name": "week-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": 
+  {
+    "node": "^12.18.3",
+    "npm": "^6.0.0"
+  },
+  "author": "Tom Tsiliopoulos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
